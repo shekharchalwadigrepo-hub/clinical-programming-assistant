@@ -1,0 +1,10 @@
+# Dependencies
+shiny
+bslib
+shinychat
+ellmer
+admiral
+pharmaversesdtm
+dplyr
+haven
+rsconnect

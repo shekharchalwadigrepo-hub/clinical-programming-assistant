@@ -1,0 +1,31 @@
+# RStudio / R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+
+# Secrets and environment
+.Renviron
+.env
+*.key
+secrets/
+
+# Posit Connect
+rsconnect/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Optional: ignore large data files if you add them later
+data/*.xpt
+data/*.sas7bdat
+data/*.csv
+!data/README.md
